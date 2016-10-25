@@ -2,7 +2,7 @@
 
 ***Atenção: A versão do Oscommerce a qual se destina essa tradução é um sistema antigo, ele serviu bem a muitas pessoas na época mas se não deve ser colocado em produção atualmente por questões de segurança.***
 
-***Os arquivos usam um antigo sistema de codifição, eles terão charset iso-8859-1 e us-ascii  ***
+***Os arquivos usam um antigo sistema de codifição, eles terão charset iso-8859-1 e us-ascii***
 
 Começei essa tradução do zero pois as outras versões que testei apresentaram problemas. 
 
